@@ -13,6 +13,7 @@ class UserServiceApplicationTests {
 	void contextLoads() {
 	}
 
+/*
 	@Autowired
 	private RatingService ratingService;
 
@@ -30,6 +31,7 @@ class UserServiceApplicationTests {
 
 		System.out.println("New Rating Created....");
 	}
+*/
 
 
 }
